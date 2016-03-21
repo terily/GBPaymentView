@@ -32,3 +32,12 @@ proguard/
 # Android Studio captures folder
 captures/
 
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Gradle
+.gradle
+gradlew.bat
+reports
+jacoco.exec

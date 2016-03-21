@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GBPaymentView">
+        <attr name="textAmount" format="integer" />
+        <attr name="borderColor" format="color" />
+        <attr name="borderSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
